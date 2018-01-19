@@ -1,0 +1,19 @@
+{
+  "name": "enzyme-react-16",
+  "version": "1.0.0",
+  "description": "An init script to automatically setup enzyme with enzyme-adapter-react-16.",
+  "main": "index.js",
+  "repository": "github:squirly/enzyme-react-16",
+  "author": "Tyler Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/squirly/enzyme-react-16/issues"
+  },
+  "homepage": "https://github.com/squirly/enzyme-react-16#readme",
+  "dependencies": {
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
